@@ -12,7 +12,7 @@
 
 ### 2. Действия на главном экране<a name="2"></a>
 
-![Регистрация](images/mainSceenSequence.png)
+![Регистрация](images/mainScreenSequence.png)
   
 ### 3. Действия на экране профиля<a name="3"></a>
 
